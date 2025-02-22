@@ -2,7 +2,10 @@
 
 I’m a **Data Scientist** with a background in **Civil Engineering** and **Water Resources**, specializing in **Machine Learning**, **Climate Modeling**, and **Geospatial Data Analysis**.
 
-![Main Scene](https://github.com/user-attachments/assets/babbe217-635d-4727-9935-6cfde8bcbd24)
+
+https://github.com/user-attachments/assets/ff07ebbd-0a3c-4091-8953-83056e4bde65
+
+
 
 
 ## 🔧 Skills
