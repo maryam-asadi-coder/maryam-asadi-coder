@@ -2,6 +2,8 @@
 
 I’m a **Data Scientist** with a background in **Civil Engineering** and **Water Resources**, specializing in **Machine Learning**, **Climate Modeling**, and **Geospatial Data Analysis**.
 
+https://app.lottiefiles.com/animation/12e3f3ab-eab1-4e67-a5ab-273e4dc2426b
+
 ## 🔧 Skills
 - Python, TensorFlow, PyTorch, Scikit-learn
 - Data Science, Machine Learning, AI
