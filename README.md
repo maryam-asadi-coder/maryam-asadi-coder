@@ -8,6 +8,8 @@ I'm deeply passionate about climate change, tidal and marine sciences, and data 
 
 🔍 I'm actively looking for Ph.D. opportunities in these areas. If you know of any open positions or research programs, I would truly appreciate any recommendations or guidance!
 
+## I firmly believe that knowledge is not only for personal advancement but also for driving change and transformation in society. I am constantly seeking innovative and impactful solutions at the forefront of science and technology.🎯
+
 ## 🔧 Skills
 - Python, TensorFlow, PyTorch, Scikit-learn
 - Data Science, Machine Learning, AI
