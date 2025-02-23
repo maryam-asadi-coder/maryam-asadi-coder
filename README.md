@@ -4,6 +4,9 @@ I’m a **Data Scientist** with a background in **Civil Engineering** and **Wate
 
 ![Main Scene (1)](https://github.com/user-attachments/assets/09d58cd8-66e7-4787-9d96-638e6ad70524)
 
+I'm deeply passionate about climate change, tidal and marine sciences, and data science. My goal is to pursue a Ph.D. in one of these interdisciplinary fields, combining my expertise in data science with environmental and oceanographic studies.
+
+🔍 I'm actively looking for Ph.D. opportunities in these areas. If you know of any open positions or research programs, I would truly appreciate any recommendations or guidance!
 
 ## 🔧 Skills
 - Python, TensorFlow, PyTorch, Scikit-learn
