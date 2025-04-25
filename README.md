@@ -22,7 +22,7 @@ I am actively looking for collaboration opportunities on projects related to:
 
 If you are working on any of these topics or have ideas for future collaborations, feel free to get in touch!
 
-## 🎾 Hobbies
+## 🏸  🏀  Hobbies
 - Passionate about **Badminton** and **Basketball**
 - Always up for a good game or new sports challenges!
 
