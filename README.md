@@ -53,8 +53,25 @@ I'm deeply passionate about climate change, tidal and marine sciences, and data 
 ---
 
 ## 🌍 Connect with me:
-- 🌐 [LinkedIn](https://www.linkedin.com/in/maryam-asadii/)
 - 📍 Tehran, Iran
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/maryam-asadii" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mym.kntu.ac@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/maryasad" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@maryamasadiiiii" target="_blank">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://climatexi.com/Maryam_asadi" target="_blank">
+    <img alt="ClimateXI" src="https://img.shields.io/badge/ClimateXI-00b894?style=for-the-badge&logo=leaf&logoColor=white"/>
+  </a>
+</p>
 
 
 
