@@ -72,8 +72,8 @@ I'm deeply passionate about climate change, tidal and marine sciences, and data 
     <img alt="ClimateXI" src="https://img.shields.io/badge/ClimateXI-00b894?style=for-the-badge&logo=leaf&logoColor=white"/>
   </a>
   <a href="https://abanfo.ir/" target="_blank">
-    <img alt="Abanfo" src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/assets/abanfo.png" height="40"/>
-  </a>
+  <img alt="Abanfo" src="https://img.shields.io/badge/Abanfo-2f80ed?style=for-the-badge&logo=semantic-release&logoColor=white"/>
+</a>
 </p>
 
 
