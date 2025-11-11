@@ -6,9 +6,11 @@ I'm a **Data Scientist** with a strong academic background in **Civil Engineerin
 
 - 🌎 **Climate Modeling & Environmental Data Analysis**
 - 📍 **Geospatial Machine Learning**
-- 📊 **AI-Powered Renewable Energy Forecasting**
+- 📊 **AI-Powered Environmental & Climate Solutions**
 
-I’m passionate about using data science to tackle climate change, improve flood prediction, and better understand marine and atmospheric systems. My long-term goal is to pursue a **Ph.D.** in an interdisciplinary field that merges **Data Science**, **Climate Science**, and **Oceanography**.
+I create **step-by-step tutorials and practical projects** to help aspiring data scientists learn Python, Machine Learning, Data Science, and Geospatial Analysis. My goal is to provide **complete guidance for anyone who wants to become a data scientist**.
+
+I am also the **founder of the knowledge-based company Abanfo**, focused on innovative data-driven solutions.
 
 > 💬 *“I believe knowledge should fuel both personal growth and meaningful societal impact.”*
 
@@ -38,25 +40,25 @@ I’m passionate about using data science to tackle climate change, improve floo
 ---
 
 ## 🔬 Key Skills
-- Machine Learning & AI for Environmental Data
-- Climate Change Modeling & Renewable Energy
-- Geospatial Analysis with Python & GIS
+- Machine Learning & AI for Environmental & Climate Data
+- Climate Change Modeling & Geospatial Analysis
 - Civil & Hydraulic Engineering Applications
+- Step-by-step educational content for aspiring Data Scientists
 
 ---
 
 ## 🚀 Current Projects & Interests
-- ✅ Wind energy prediction under climate change (North Dakota case study)
-- ✅ Modeling sea level fluctuations using atmospheric data
-- ✅ Building educational content on Data Science & Python
+- ✅ Developing **complete step-by-step tutorials** for learning Data Science
+- ✅ Founder of the knowledge-based company **Abanfo**
+- ✅ Building educational content on **Python & Machine Learning**
 
 ---
 
 ## 🤝 Open to Collaborations On:
 - Climate Change & Environmental Modeling  
 - Hydrological Modeling & Flood Risk Assessment  
-- Tidal & Oceanographic Data Analysis  
-- AI in Renewable Energy & Sustainability
+- Geospatial & Climate Data Analysis  
+- AI in Environmental & Renewable Energy Solutions
 
 ---
 
@@ -71,14 +73,13 @@ I’m passionate about using data science to tackle climate change, improve floo
   <a href="https://www.youtube.com/@maryamasadiiiii" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="mailto:mym.kntu.ac@gmail.com" target="_blank">
+  <a href="mailto:mym.kntu.av@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/maryam-asadii" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/maryasad" target="_blank">
+  <a href="https://github.com/maryam-asadi-coder" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
