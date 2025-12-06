@@ -2,7 +2,8 @@
 
 ![Main Scene](https://github.com/user-attachments/assets/09d58cd8-66e7-4787-9d96-638e6ad70524)
 
-![Teamwork](https://raw.githubusercontent.com/username/repo/main/teamwork.svg)
+
+![Teamwork Scene](https://github.com/maryam-asadi-coder/your-repo-name/main/assets/teamwork.svg)
 
 
 I'm a **Data Scientist** with a strong academic background in **Civil Engineering** and **Water Resources**, specializing in:
