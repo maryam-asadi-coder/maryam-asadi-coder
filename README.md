@@ -76,9 +76,6 @@ Outside the lab I enjoy outdoor activities, hiking/camping and playing music.
   <a href="mailto:mym.kntu.av@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/maryam-asadii" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="https://github.com/maryam-asadi-coder" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
