@@ -13,9 +13,8 @@ I create **step-by-step tutorials and practical projects** to help aspiring data
 I am also the **founder of the knowledge-based company Abanfo**, focused on innovative data-driven solutions.
 
 > 💬 *“I believe knowledge should fuel both personal growth and meaningful societal impact.”*
-Outside the lab I enjoy outdoor activities, hiking/camping and playing music. 
 ---
-
+Outside the lab I enjoy outdoor activities, hiking/camping and playing music. 
 ## 🧠 Programming Languages  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
