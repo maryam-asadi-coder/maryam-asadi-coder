@@ -13,7 +13,7 @@ I create **step-by-step tutorials and practical projects** to help aspiring data
 I am also the **founder of the knowledge-based company Abanfo**, focused on innovative data-driven solutions.
 
 > 💬 *“I believe knowledge should fuel both personal growth and meaningful societal impact.”*
-
+Outside the lab I enjoy outdoor activities, hiking/camping and playing music. 
 ---
 
 ## 🧠 Programming Languages  
