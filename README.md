@@ -19,16 +19,13 @@
 </div>
 
 ---
-
-<div align="center">
+<p align="center">
   <img
     src="https://github.com/user-attachments/assets/09d58cd8-66e7-4787-9d96-638e6ad70524"
-    alt="Climate & Environmental Data Science"
-    width="720"
+    alt="Maryam Asadi"
+    width="400"
   />
-</div>
-
-
+</p>
 ---
 
 ## 🌍 About Me
