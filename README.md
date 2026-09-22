@@ -18,16 +18,6 @@
 
 </div>
 
----
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/09d58cd8-66e7-4787-9d96-638e6ad70524"
-    alt="Maryam Asadi"
-    width="400"
-  />
-</p>
----
-
 ## 🌍 About Me
 
 I'm a **Climate & Environmental Data Scientist** with an academic background in **Civil Engineering and Water Resources**, working at the intersection of:
